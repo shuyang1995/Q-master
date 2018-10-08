@@ -17,6 +17,9 @@ Content moderation:
 
 ## Team Members
 April Cai ([@aaabbbjj](https://github.com/aaabbbjj))
+<p align="center">
+    <img height="300px" src="https://github.com/shuyang1995/Q-master/blob/master/April.jpg" alt="April Photo">
+</p>
 
 Boyuan Feng ([@BoyuanFeng](https://github.com/BoyuanFeng))
 <p align="center">
