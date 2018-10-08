@@ -16,10 +16,16 @@ Content moderation:
 1.Upvote/Downvote: Users can rank answers based on how relevant or helpful they found the answers to be. This feature helps maintain the quality of content posted online.The more upvotes an answer receives, the higher it is ranked, and it shows up on top of the searches related to the question. If an answer is ranked poorly, it is “collapsed” and will not show up in people’s feeds.
 
 ## Team Members
-April Cai (@aaabbbjj)
+April Cai ([@aaabbbjj](https://github.com/aaabbbjj))
 
-Boyuan Feng (@BoyuanFeng)
+Boyuan Feng ([@BoyuanFeng](https://github.com/BoyuanFeng))
+<p align="center">
+    <img height="300px" src="https://github.com/shuyang1995/Q-master/blob/master/Boyuan.jpg" alt="Boyuan Feng Photo">
+</p>
 
-Shu Yang (@shuyang1995)
+Shu Yang ([@shuyang1995](https://github.com/shuyang1995))
+<p align="center">
+    <img height="300px" src="https://github.com/shuyang1995/Q-master/blob/master/Shu.jpg" alt="Shu Yang Photo">
+</p>
 
-Zimu Yang (@Niffery)
+Zimu Yang ([@Niffery](https://github.com/Niffery))
