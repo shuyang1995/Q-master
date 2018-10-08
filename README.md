@@ -29,3 +29,6 @@ Shu Yang ([@shuyang1995](https://github.com/shuyang1995))
 </p>
 
 Zimu Yang ([@Niffery](https://github.com/Niffery))
+<p align="center">
+    <img height="300px" src="https://github.com/shuyang1995/Q-master/blob/master/Zimu.jpeg" alt="Zimu Yang Photo">
+</p>
